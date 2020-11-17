@@ -1,0 +1,14 @@
+.vdo{
+    width: 560px;
+    height: 315px;
+}
+td,th{
+    border: 2px solid blue;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+}
+.back{
+    background-image: url(media/back.jpg);
+}
